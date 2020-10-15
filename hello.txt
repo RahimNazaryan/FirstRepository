@@ -1,1 +1,2 @@
-hello
+hello dear student 
+today is git class.
